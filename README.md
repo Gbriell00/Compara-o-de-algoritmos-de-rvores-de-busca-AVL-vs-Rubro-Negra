@@ -28,4 +28,4 @@ Os experimentos avaliam as estruturas com sequências de valores **crescentes, d
 
 A IA foi utilizada para auxiliar na implementação do código. Ela serviu como um *pipeline* do que deveria ser implementado, além de ter tirado dúvidas e corrigido trechos do código que estavam sendo problemáticos.
 
-Como o principal objetivo do trabalho era **aprender sobre a implementação dos algoritmos**, os arquivos `test.py` e `analysis_comparativa_avl_llrb.ipynb` foram feitos com uso mais intensivo de IA, uma vez que não eram o foco principal do trabalho e para permitir uma melhor gestão do tempo.
+Como o principal objetivo do trabalho era **aprender sobre a implementação dos algoritmos**, os arquivos `test.py` e `analysis_comparativa_avl_llrb.ipynb` foram feitos com uso mais intensivo de IA, uma vez que não eram o foco principal do trabalho e para permitir uma melhor gestão do tempo. O arquivo Main que elabora uma interface CLI para uso das árvores foi feita via vibecoding.
